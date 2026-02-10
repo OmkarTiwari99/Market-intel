@@ -1,7 +1,7 @@
 # Market Intelligence & Reporting System
 
 🚀 **Live App:**  
-https://market-intel-g52uzawbeffn9lsiedgtc6.streamlit.app
+ https://market-intel-g52uzawebfrn9lsiedgtc6.streamlit.app
 
 📂 **GitHub Repository:**  
 https://github.com/OmkarTiwari99/Market-intel
